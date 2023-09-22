@@ -7,6 +7,6 @@
 - Email: nguyenthanhdung2392003@gmail.com
 - Đề tài: Website bán hàng gấu bông
 ## Công nghệ:
-- ReactJS
+- Laravel
 ## Thời hạn deadline Giao diện web:
 - Từ ngày 11/9 -> 17/9
